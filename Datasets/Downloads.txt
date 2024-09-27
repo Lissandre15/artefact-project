@@ -1,0 +1,10 @@
+Downloads the datasets on this drive:
+https://drive.google.com/drive/folders/1ok1oosOG5_Kx7FUcupO4ihWFHH2ce-Nv?usp=drive_link
+
+Datasets description:
+
+1. Used car auction : https://www.kaggle.com/datasets/tunguz/used-car-auction-prices
+
+2. Car Parts and Car Damages : https://www.kaggle.com/datasets/humansintheloop/car-parts-and-car-damages
+
+3. Car Damage Detection : https://universe.roboflow.com/capstone-nh0nc/car-damage-detection-t0g92
